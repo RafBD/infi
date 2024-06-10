@@ -12,7 +12,7 @@ root.render(
       domain="dev-obinb706lll8exre.us.auth0.com"
       clientId="sFYv4ZNECXObneWy4Tiy1pBF5MXGUK48"
       authorizationParams={{
-        redirect_uri: "https://rafbd.github.io/infi_crm/",
+        redirect_uri: "https://rafbd.github.io/infi/",
       }}
     >
       <App />
